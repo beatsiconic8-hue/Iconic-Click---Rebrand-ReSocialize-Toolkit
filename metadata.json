@@ -1,0 +1,7 @@
+{
+  "name": "Remix: IconicClick - SEO Metadata \u0026 Rebrand Nexus",
+  "description": "A high-performance AI-powered metadata strategist. Features full rebrand optimization, platform-specific SEO blocks, Nano Banana Pro image generation, and Multimodal Embedding Lab for unified text, image, and audio analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
